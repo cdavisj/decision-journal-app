@@ -53,7 +53,3 @@ src/
 - `npm run build` - Build for production
 - `npm run lint` - Run ESLint
 - `npm run preview` - Preview production build
-
-## License
-
-MIT
